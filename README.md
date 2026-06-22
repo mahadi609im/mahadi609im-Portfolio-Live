@@ -45,4 +45,4 @@ I am always open to discussing new projects, technical challenges, or potential 
 
 ---
 
-> "Code is poetry, and design is the canvas."
+> "Turning vision into reality, line by line."
